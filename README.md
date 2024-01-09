@@ -1,2 +1,3 @@
 # hello-world
-Tutorial
+Hi My name is Hogara Okamoto. 
+I am exploring GitHub.
